@@ -1,0 +1,15 @@
+[submodule "discrete_math"]
+	path = discrete_math
+	url = git://github.com/MykhailoLeskiv/discrete_math.git
+[submodule "programming"]
+	path = programming
+	url = git://github.com/MykhailoLeskiv/programming.git
+[submodule "artificial_intelligence"]
+	path = artificial_intelligence
+	url = git://github.com/MykhailoLeskiv/artificial_intelligence.git
+[submodule "information_security_algorithms"]
+	path = information_security_algorithms
+	url = git://github.com/MykhailoLeskiv/information_security_algorithms.git
+[submodule "oop"]
+	path = oop
+	url = git://github.com/MykhailoLeskiv/oop.git
